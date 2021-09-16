@@ -30,6 +30,7 @@
     height: auto;
     top: 30%;
     margin-left: 5%;
+    margin-bottom: 5%;
 }
 
 .chicken-menu .chicken{
@@ -64,7 +65,8 @@
     width: 89%;
     height: auto;
     top: 30%;
-    margin-left: 1.5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
 }
 
 .beef-menu .beef{
@@ -100,7 +102,8 @@
     width: 89%;
     height: auto;
     top: 30%;
-    margin-left: -0.5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
 }
 
 .sushi-menu .sushi{
